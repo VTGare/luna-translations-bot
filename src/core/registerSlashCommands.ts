@@ -1,14 +1,11 @@
 const { REST } = require('@discordjs/rest')
 const { Routes } = require('discord-api-types/v9');
+import { config } from '../config'
 import { loadAllCommands } from '../helpers/discord/loaders'
 import * as dotenv from 'dotenv'
 dotenv.config({ path: __dirname + '/../../.env' })
 
 const commands = loadAllCommands()
-
-// const clientId = '813040054452355114' // -- prod
-const clientId = '819785987420848128' // -- dev
-// const guildId = '797780320405553223'
 
 const rest = new REST({ version: '9' }).setToken(process.env.DISCORD_DEV_TOKEN)
 
@@ -24,7 +21,7 @@ const musicCmds = [{"name":"clear","description":"Clear all tracks from queue","
 
     console.log(body)
     console.log('====================')
-    await rest.put(Routes.applicationCommands(clientId), { body })
+    await rest.put(Routes.applicationCommands(config.clientId), { body })
 
     console.log('Successfully reloaded application (/) commands.')
   } catch (error) {

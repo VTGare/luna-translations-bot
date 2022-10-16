@@ -30,16 +30,6 @@ export const indies = [
     aliases: ['uto'],
   },
   {
-    name: 'Discord',
-    ytId: 'UCZ5XnGb-3t7jCkXdawN2tkA',
-    chName: 'placeholder73459',
-    picture:
-      'https://yt3.ggpht.com/ytc/AKedOLQc1OCf9gztVmcVnmI_41uN9axrRP8wd4a-GflFRQ=s88-c-k-c0x00ffffff-no-rj',
-    groups: ['indies'],
-    twitter: 'discord',
-    aliases: ['discord'],
-  },
-  {
     name: 'Pochi',
     ytId: 'UC22BVlBsZc6ta3Dqz75NU6Q',
     chName: 'Pochimaru/POCHI-GOYA.channel',
@@ -50,23 +40,13 @@ export const indies = [
     aliases: ['pochi', 'pochimaru'],
   },
   {
-    name: 'Ririsya',
-    ytId: 'UC1ucgoC_sGww_Euu5iMqpQw',
-    chName: 'Ririsya Music',
-    picture:
-      'https://yt3.ggpht.com/ytc/AKedOLRRthMQ75EuWCRmhrANEXCGZ8qYjtMf1eI3ljGl=s88-c-k-c0x00ffffff-no-rj',
-    groups: ['indies'],
-    twitter: 'Ririsya_music',
-    aliases: ['ririsya'],
-  },
-  {
     name: 'wanwangomigomi',
     ytId: 'UCpXYzk_uutXwHCpr2lcRN3w',
     chName: '西沢5ミリ',
     picture: '',
     groups: ['indies', 'parents'],
     twitter: 'wanwangomigomi',
-    aliases: [''],
+    aliases: ['wanwangomigomi'],
   },
   {
     name: 'Nachoneko',
@@ -75,16 +55,7 @@ export const indies = [
     picture: '',
     groups: ['indies', 'parents'],
     twitter: 'amsrntk3',
-    aliases: ['nachoneko'],
-  },
-  {
-    name: 'Naraka',
-    ytId: 'UC-o-E6I3IC2q8sAoAuM6Umg',
-    chName: 'Naraka',
-    picture: '',
-    groups: ['indies'],
-    twitter: '',
-    aliases: [],
+    aliases: ['nachoneko', 'nacho'],
   },
   {
     name: 'Kagura Nana',
@@ -106,19 +77,13 @@ export const indies = [
     aliases: ['ui', 'uimama', 'ういママ'],
   },
   {
-    name: 'Misumi no Harawata',
-    ytId: 'UC9VqnG2Yx--wWitfHvJRe9A',
-    chName: 'みすみのはらわた',
-    picture: '',
+    name: 'Discord',
+    ytId: 'UCZ5XnGb-3t7jCkXdawN2tkA',
+    chName: 'Do not remove.',
+    picture:
+      'https://yt3.ggpht.com/ytc/AKedOLQc1OCf9gztVmcVnmI_41uN9axrRP8wd4a-GflFRQ=s88-c-k-c0x00ffffff-no-rj',
     groups: ['indies'],
-    twitter: 'yu_ka_misumi',
-    aliases: [],
+    twitter: 'discord',
+    aliases: ['discord'],
   },
-  // {
-  // name: 'tam', ytId: 'UCVTRz4yxAm0m3jo_4tpEcZw',
-  // chName: 'タム',
-  // picture: 'https://yt3.ggpht.com/ytc/AKedOLRRthMQ75EuWCRmhrANEXCGZ8qYjtMf1eI3ljGl=s88-c-k-c0x00ffffff-no-rj',
-  // groups: ['indies'], twitter: 'tamtam',
-  // aliases: ['tam']
-  // }
 ] as const

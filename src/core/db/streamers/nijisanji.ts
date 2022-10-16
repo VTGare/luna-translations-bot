@@ -1,21 +1,11 @@
 export const nijisanji = [
   {
-    name: 'Petra Gurin',
-    ytId: 'UCgA2jKRkqpY_8eysPUs8sjw',
-    chName: 'Petra Gurin【NIJISANJI EN】',
-    picture:
-      'https://yt3.ggpht.com/InPLoP8e6-x9F_3kMiaDpxbG8gmloA-eOYwM_M2fi6_jbjpLGZtWUUdH9XVUE6vsNl0QAe_7mA=s88-c-k-c0x00ffffff-no-rj',
-    groups: ['Nijisanji', 'Nijisanji EN', 'Nijisanji EN 2nd wave'],
-    twitter: 'Petra_Gurin',
-    aliases: ['petra'],
-  },
-  {
     name: 'Elira Pendora',
     ytId: 'UCIeSUTOTkF9Hs7q3SGcO-Ow',
     chName: 'Elira Pendora 【NIJISANJI EN】',
     picture:
       'https://yt3.ggpht.com/rBUqVoyIti32FfNnqy0cxMBZOLyvTmGoVjOqgMuvAjRdaEZR9EVAKQQ7atlIAJaCdmAgt_9OjlM=s88-c-k-c0x00ffffff-no-rj',
-    groups: ['Nijisanji', 'Nijisanji EN', 'Nijisanji EN 1st wave'],
+    groups: ['Nijisanji', 'Nijisanji EN', 'LazuLight'],
     twitter: 'EliraPendora',
     aliases: ['elira'],
   },
@@ -25,7 +15,7 @@ export const nijisanji = [
     chName: 'Pomu Rainpuff 【NIJISANJI EN】',
     picture:
       'https://yt3.ggpht.com/vzTQuBjtI_ZJ5RFkxolmnaP07ChJEcJLJJtruTDsNvf49EIkEPGfJat19O4FFIvW1Pu-ljItrw=s88-c-k-c0x00ffffff-no-rj',
-    groups: ['Nijisanji', 'Nijisanji EN', 'Nijisanji EN 1st wave'],
+    groups: ['Nijisanji', 'Nijisanji EN', 'LazuLight'],
     twitter: 'PomuRainpuff',
     aliases: ['pomu'],
   },
@@ -35,7 +25,7 @@ export const nijisanji = [
     chName: 'Finana Ryugu 【NIJISANJI EN】',
     picture:
       'https://yt3.ggpht.com/qW1s1IovgkP8pZ0YRBJ6orFElmFzkRb_ActIKUowfHJGjF_xRR5RPlvKhXBRT06o4_u_j9mDczg=s88-c-k-c0x00ffffff-no-rj',
-    groups: ['Nijisanji', 'Nijisanji EN', 'Nijisanji EN 2nd wave'],
+    groups: ['Nijisanji', 'Nijisanji EN', 'LazuLight'],
     twitter: 'FinanaRyugu',
     aliases: ['finana'],
   },
@@ -45,7 +35,7 @@ export const nijisanji = [
     chName: 'Selen Tatsuki 【NIJISANJI EN】',
     picture:
       'https://yt3.ggpht.com/OLpUvHlKRG9RrHxJo_QV0OYrh_bvUPpKI-MK80f8SBA2uTmre_Kx1Gq9lZhU6rmOEYlvo33Pp3M=s88-c-k-c0x00ffffff-no-rj',
-    groups: ['Nijisanji', 'Nijisanji EN', 'Nijisanji EN 2nd wave'],
+    groups: ['Nijisanji', 'Nijisanji EN', 'Obsydia'],
     twitter: 'selen_tatsuki',
     aliases: ['selen'],
   },
@@ -55,19 +45,19 @@ export const nijisanji = [
     chName: 'Rosemi Lovelock【NIJISANJI EN】',
     picture:
       'https://yt3.ggpht.com/g38pfFWO4nWf-6X1U4NvJODSUEonEJpgEP-J-_tQzERyxJnSuJy5S4cGy5G-dlaQ9PZdWabEBNU=s176-c-k-c0x00ffffff-no-rj-mo',
-    groups: ['Nijisanji', 'Nijisanji EN', 'Nijisanji EN 2nd wave'],
+    groups: ['Nijisanji', 'Nijisanji EN', 'Obsydia'],
     twitter: 'Rosemi_Lovelock',
     aliases: ['Rosemi'],
   },
   {
-    name: 'Ban Hada',
-    ytId: 'UCLjx3lqIkYkPCBJop8czJ2A',
-    chName: '반하다 / Ban Hada 【NIJISANJI KR】',
+    name: 'Petra Gurin',
+    ytId: 'UCgA2jKRkqpY_8eysPUs8sjw',
+    chName: 'Petra Gurin【NIJISANJI EN】',
     picture:
-      'https://yt3.ggpht.com/ytc/AKedOLRroQSThdusiJTmBVq-V1Tl7XHbox_i2fB6vodX=s88-c-k-c0x00ffffff-no-rj',
-    groups: ['Nijisanji', 'Nijisanji KR', 'Nijisanji KR 5th gen'],
-    twitter: 'BanHada2434',
-    aliases: ['Hada'],
+      'https://yt3.ggpht.com/InPLoP8e6-x9F_3kMiaDpxbG8gmloA-eOYwM_M2fi6_jbjpLGZtWUUdH9XVUE6vsNl0QAe_7mA=s88-c-k-c0x00ffffff-no-rj',
+    groups: ['Nijisanji', 'Nijisanji EN', 'Obsydia'],
+    twitter: 'Petra_Gurin',
+    aliases: ['petra'],
   },
   {
     name: 'Nina Kosaka',
@@ -75,7 +65,7 @@ export const nijisanji = [
     chName: 'Nina Kosaka【NIJISANJI EN】',
     picture:
       'https://yt3.ggpht.com/-JRODQIYAdJjCTGJrqJtyypBPMmkegGUMle_V3o2uF6OSbBWWVLvPnPCnJDXwI-7AilZUFhoqg=s88-c-k-c0x00ffffff-no-rj',
-    groups: ['Nijisanji', 'Nijisanji EN', 'Nijisanji EN 3rd wave'],
+    groups: ['Nijisanji', 'Nijisanji EN', 'Ethyria'],
     twitter: 'NinaKosaka',
     aliases: ['Nina'],
   },
@@ -85,7 +75,7 @@ export const nijisanji = [
     chName: 'Millie Parfait【NIJISANJI EN】',
     picture:
       'https://yt3.ggpht.com/RDcSwXxXz8yWZM3hwyulgUwwHMVYGSGdFxTf0PXOAPlSKzs9_g4sXsw-dJlYb1wKaPvkiAZo=s88-c-k-c0x00ffffff-no-rj',
-    groups: ['Nijisanji', 'Nijisanji EN', 'Nijisanji EN 3rd wave'],
+    groups: ['Nijisanji', 'Nijisanji EN', 'Ethyria'],
     twitter: 'MillieParfait',
     aliases: ['Millie'],
   },
@@ -95,7 +85,7 @@ export const nijisanji = [
     chName: 'Enna Alouette【NIJISANJI EN】',
     picture:
       'https://yt3.ggpht.com/CUcCKimOq7plRLyNboLNlCSxFH0jS-CZ1SV7_S3fwwVAg4tkOXNOcsGvi-128XV4FEsUWZaPCA=s88-c-k-c0x00ffffff-no-rj',
-    groups: ['Nijisanji', 'Nijisanji EN', 'Nijisanji EN 3rd wave'],
+    groups: ['Nijisanji', 'Nijisanji EN', 'Ethyria'],
     twitter: 'EnnaAlouette',
     aliases: ['Enna'],
   },
@@ -105,18 +95,168 @@ export const nijisanji = [
     chName: 'Reimu Endou【NIJISANJI EN】',
     picture:
       'https://yt3.ggpht.com/5drj0xMO04Pdpm1Xpqk3fObyHqjHIkGj-inUheg7iOdmpsXaEUJ2zX1jOfX3_wclF8Jd9JLXGQ=s88-c-k-c0x00ffffff-no-rj',
-    groups: ['Nijisanji', 'Nijisanji EN', 'Nijisanji EN 3rd wave'],
+    groups: ['Nijisanji', 'Nijisanji EN', 'Ethyria'],
     twitter: 'ReimuEndou',
     aliases: ['Reimu'],
   },
   {
-    name: 'Machita Chima',
-    ytId: 'UCo7TRj3cS-f_1D9ZDmuTsjw',
-    chName: 'Machita Chima',
+    name: 'Luca Kaneshiro',
+    ytId: 'UC7Gb7Uawe20QyFibhLl1lzA',
+    chName: 'Luca Kaneshiro【NIJISANJI EN】',
     picture:
-      'https://yt3.ggpht.com/ytc/AKedOLTpaFhkNBf2kkuap4nxvCUFDUJJAX2LwyGNjgc59w=s88-c-k-c0x00ffffff-no-rj',
-    groups: ['Nijisanji', 'Nijisanji JP'],
-    twitter: 'chima_machita23',
-    aliases: ['Chima', 'ちま'],
+      'xxxx',
+    groups: ['Nijisanji', 'Nijisanji EN', 'Luxiem'],
+    twitter: 'luca_kaneshiro',
+    aliases: ['luca'],
+  },
+  {
+    name: 'Shu Yamino',
+    ytId: 'UCG0rzBZV_QMP4MtWg6IjhEA',
+    chName: 'Shu Yamino【NIJISANJI EN】',
+    picture:
+      'xxxx',
+    groups: ['Nijisanji', 'Nijisanji EN', 'Luxiem'],
+    twitter: 'shu_yamino',
+    aliases: ['shu'],
+  },
+  {
+    name: 'Ike Eveland',
+    ytId: 'UC4yNIKGvy-YUrwYupVdLDXA',
+    chName: 'Ike Eveland【NIJISANJI EN】',
+    picture:
+      'xxxx',
+    groups: ['Nijisanji', 'Nijisanji EN', 'Luxiem'],
+    twitter: 'ike_eveland',
+    aliases: ['ike'],
+  },
+  {
+    name: 'Mysta Rias',
+    ytId: 'UCIM92Ok_spNKLVB5TsgwseQ',
+    chName: 'Mysta Rias 【NIJISANJI EN】',
+    picture:
+      'xxxx',
+    groups: ['Nijisanji', 'Nijisanji EN', 'Luxiem'],
+    twitter: 'Mysta_Rias',
+    aliases: ['mysta'],
+  },
+  {
+    name: 'Vox Akuma',
+    ytId: 'UCckdfYDGrjojJM28n5SHYrA',
+    chName: 'Vox Akuma【NIJISANJI EN】',
+    picture:
+      'xxxx',
+    groups: ['Nijisanji', 'Nijisanji EN', 'Luxiem'],
+    twitter: 'Vox_Akuma',
+    aliases: ['vox'],
+  },
+  {
+    name: 'Sonny Brisko',
+    ytId: 'UCuuAb_72QzK0M1USPMEl1yw',
+    chName: 'Sonny Brisko 【NIJISANJI EN】',
+    picture:
+      'xxxx',
+    groups: ['Nijisanji', 'Nijisanji EN', 'Noctyx'],
+    twitter: 'sonny_brisko',
+    aliases: ['sonny'],
+  },
+  {
+    name: 'Uki Violeta',
+    ytId: 'UChJ5FTsHOu72_5OVx0rvsvQ',
+    chName: 'Uki Violeta 【NIJISANJI EN】',
+    picture:
+      'xxxx',
+    groups: ['Nijisanji', 'Nijisanji EN', 'Noctyx'],
+    twitter: 'uki_violeta',
+    aliases: ['uki'],
+  },
+  {
+    name: 'Alban Knox',
+    ytId: 'UCQ1zGxHrfEmmW4CPpBx9-qw',
+    chName: 'Alban Knox 【NIJISANJI EN】',
+    picture:
+      'xxxx',
+    groups: ['Nijisanji', 'Nijisanji EN', 'Noctyx'],
+    twitter: 'alban_knox',
+    aliases: ['alban'],
+  },
+  {
+    name: 'Fulgur Ovid',
+    ytId: 'UCGhqxhovNfaPBpxfCruy9EA',
+    chName: 'Fulgur Ovid 【NIJISANJI EN】',
+    picture:
+      'xxxx',
+    groups: ['Nijisanji', 'Nijisanji EN', 'Noctyx'],
+    twitter: 'Fulgur_Ovid',
+    aliases: ['fulgur'],
+  },
+  {
+    name: 'Yugo Asuma',
+    ytId: 'UCSc_KzY_9WYAx9LghggjVRA',
+    chName: 'Yugo Asuma 【NIJISANJI EN】',
+    picture:
+      'xxxx',
+    groups: ['Nijisanji', 'Nijisanji EN', 'Noctyx'],
+    twitter: 'Yugo_Asuma',
+    aliases: ['yugo'],
+  },
+  {
+    name: 'Maria Marionette',
+    ytId: 'UCwaS8_S7kMiKA3izlTWHbQg',
+    chName: 'Maria Marionette 【NIJISANJI EN】',
+    picture:
+      'xxxx',
+    groups: ['Nijisanji', 'Nijisanji EN', 'ILUNA'],
+    twitter: 'MariaMari0nette',
+    aliases: ['maria'],
+  },
+  {
+    name: 'Kyo Kaneko',
+    ytId: 'UCsb-1aJgiJXJH2feV-zlZRw',
+    chName: 'Kyo Kaneko 【NIJISANJI EN】',
+    picture:
+      'xxxx',
+    groups: ['Nijisanji', 'Nijisanji EN', 'ILUNA'],
+    twitter: 'KyoKanek0',
+    aliases: ['kyo'],
+  },
+  {
+    name: 'Aia Amare',
+    ytId: 'UCN68LoM3khS4gdBMiWJO8WA',
+    chName: 'Aia Amare 【NIJISANJI EN】',
+    picture:
+      'xxxx',
+    groups: ['Nijisanji', 'Nijisanji EN', 'ILUNA'],
+    twitter: 'AiaAmare',
+    aliases: ['aia'],
+  },
+  {
+    name: 'Aster Arcadia',
+    ytId: 'UCpzxZW5kghGnO5TmAFJQAVw',
+    chName: 'Aster Arcadia 【NIJISANJI EN】',
+    picture:
+      'xxxx',
+    groups: ['Nijisanji', 'Nijisanji EN', 'ILUNA'],
+    twitter: 'AsterArcadia',
+    aliases: ['aster'],
+  },
+  {
+    name: 'Scarle Yonaguni',
+    ytId: 'UCFgXWZOUZA2oYHNr6qDmsTQ',
+    chName: 'Scarle Yonaguni 【NIJISANJI EN】',
+    picture:
+      'xxxx',
+    groups: ['Nijisanji', 'Nijisanji EN', 'ILUNA'],
+    twitter: 'ScarleYonaguni',
+    aliases: ['scarle'],
+  },
+  {
+    name: 'Ren Zotto',
+    ytId: 'UCKu59gTZ_rdEmerdx5rV4Yg',
+    chName: 'Ren Zotto 【NIJISANJI EN】',
+    picture:
+      'xxxx',
+    groups: ['Nijisanji', 'Nijisanji EN', 'ILUNA'],
+    twitter: 'RenZott0',
+    aliases: ['ren'],
   },
 ] as const
