@@ -2,13 +2,14 @@ import { DocumentType } from '@typegoose/typegoose'
 import Enmap from 'enmap'
 import { UpdateQuery } from 'mongoose'
 import { setKey, filter } from '../../../helpers/immutableES6MapFunctions'
+import { config } from '../../../config'
 import { VideoId } from '../../../modules/holodex/frames'
 import { BotData, BotDataDb } from '../models'
 import { RelayedComment } from '../models/RelayedComment'
 
 const _id = '000000000022'
 
-export const botDataEnmap = new Enmap({ name: 'botData' })
+export const botDataEnmap = new Enmap({ name: 'botData', dataDir: config.dataDir })
 
 export function addNotifiedLive(videoId: VideoId): void {
   const currentList = botDataEnmap.ensure('notifiedYtLives', []) as VideoId[]

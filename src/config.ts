@@ -19,6 +19,7 @@ export const config: LunaBotConfig = {
   twitcastingId: process.env.TWITCASTING_CLIENT_ID,
   twitcastingSecret: process.env.TWITCASTING_CLIENT_SECRET,
   holodexKey: process.env.HOLODEX_API_KEY,
+  dataDir: process.env.SQLITE_DATA_DIR
 }
 
 export interface PermLevel {
@@ -39,4 +40,5 @@ interface LunaBotConfig {
   twitcastingId?: string
   twitcastingSecret?: string
   holodexKey?: string
+  dataDir?: string
 }
