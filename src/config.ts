@@ -5,6 +5,7 @@ import { isGuildOwner, isBotOwner, hasKickPerms } from './helpers/discord'
 export const config: LunaBotConfig = {
   deeplKey: process.env.DEEPL_KEY,
   ownerId: '150696503428644864',
+  clientId: process.env.CLIENT_ID,
   permLevels: [
     { level: 0, name: 'User', check: () => true },
     { level: 1, name: 'Blacklister', check: isBlacklister },
@@ -31,6 +32,7 @@ export interface PermLevel {
 interface LunaBotConfig {
   deeplKey?: string
   ownerId: string
+  clientId?: string
   permLevels: PermLevel[]
   prefix: string
   token?: string
