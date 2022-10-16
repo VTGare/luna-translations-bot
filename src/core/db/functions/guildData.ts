@@ -10,10 +10,12 @@ import { client } from '../../lunaBotClient'
 import { RelayedComment } from '../models/RelayedComment'
 import { GuildData, BlacklistNotice, GuildDataDb } from '../models/GuildData'
 import { YouTubeChannelId } from '../../../modules/holodex/frames'
-import { config } from '../../../config'
 import Enmap from 'enmap'
 
-export const guildDataEnmap: Enmap<Snowflake, GuildData> = new Enmap({ name: 'guildData', dataDir: config.dataDir })
+export const guildDataEnmap: Enmap<Snowflake, GuildData> = new Enmap({
+  name: 'guildData',
+  dataDir: '/data',
+})
 
 export type ImmutableRelayHistory = ImmutableMap<VideoId, RelayedComment[]>
 

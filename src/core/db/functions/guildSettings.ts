@@ -14,7 +14,7 @@ import Enmap from 'enmap'
 
 export const guildSettingsEnmap: Enmap<Snowflake, GuildSettings> = new Enmap({
   name: 'guildSettings',
-  dataDir: config.dataDir,
+  dataDir: '/data',
 })
 
 /**
