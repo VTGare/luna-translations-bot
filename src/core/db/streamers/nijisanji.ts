@@ -259,64 +259,64 @@ export const nijisanji = [
     twitter: 'RenZott0',
     aliases: ['ren'],
   },
-  {
-    name: 'Zaion LanZa',
-    ytId: 'UCIairB9UMDvqSKfMdv1jmjg',
-    chName: 'Zaion LanZa 【NIJISANJI EN】',
-    picture:
-      'https://yt3.ggpht.com/DrHNK8DkQhELD8LMdrvJ7SSj0t5UrZfQjvMuYUDlGM1LTREgx7GEg7kE48EWBDWCcfzaDGiktqg=s88-c-k-c0x00ffffff-no-rj',
-    groups: ['Nijisanji', 'Nijisanji EN', 'XSOLEIL'],
-    twitter: 'ZaionLanZa',
-    aliases: ['zaion'],
-  },
-  {
-    name: 'Doppio Dropscythe',
-    ytId: 'UCy91xBlY_Brh3bnHxKtjrrg',
-    chName: 'Doppio Dropscythe 【NIJISANJI EN】',
-    picture:
-      'https://yt3.ggpht.com/X1LtitsaIYwwrNyC5vmTCzUJUC1LHRlrkBcVHQIUkGb--Sj8ZrX_FFB7HwbG5oum7oNf80mZ=s88-c-k-c0x00ffffff-no-rj',
-    groups: ['Nijisanji', 'Nijisanji EN', 'XSOLEIL'],
-    twitter: 'D_Dropscythe',
-    aliases: ['doppio'],
-  },
-  {
-    name: 'Meloco Kyoran',
-    ytId: 'UChKXd7oqD18qiIYBoRIHTlw',
-    chName: 'Meloco Kyoran 【NIJISANJI EN】',
-    picture:
-      'https://yt3.ggpht.com/8PnNIMeWBuNMKtj_5ebi4ep5kw29twkVw8gsOcdnk9pUGqW-uR9W8fvYPQmyf-mZhf-7cABK=s88-c-k-c0x00ffffff-no-rj',
-    groups: ['Nijisanji', 'Nijisanji EN', 'XSOLEIL'],
-    twitter: 'MelocoKyoran',
-    aliases: ['meloco'],
-  },
-  {
-    name: 'Hex Haywire',
-    ytId: 'UCz_ZRw6ak4Foy8zZy0kEprQ',
-    chName: 'Hex Haywire 【NIJISANJI EN】',
-    picture:
-      'https://yt3.ggpht.com/rEyqgSXu2ihdoyEcGl8vcJslz9x7m5aoKI1MoYs3PpX_yFC763kTFaTl_V4JirSkrv1e0xzokw=s88-c-k-c0x00ffffff-no-rj',
-    groups: ['Nijisanji', 'Nijisanji EN', 'XSOLEIL'],
-    twitter: 'HexHaywire',
-    aliases: ['hex'],
-  },
-  {
-    name: 'Kotoka Torahime',
-    ytId: 'UCggO2c1unS-oLwTLT0ICywg',
-    chName: 'Kotoka Torahime 【NIJISANJI EN】',
-    picture:
-      'https://yt3.ggpht.com/Myreh9MUumbweF0-LXoxbFjNAHzVyXNASE2ZMK14p0YNUMGLSVUCaGAO_d63bXdbtTdRRNBjgw=s88-c-k-c0x00ffffff-no-rj',
-    groups: ['Nijisanji', 'Nijisanji EN', 'XSOLEIL'],
-    twitter: 'KotokaTorahime',
-    aliases: ['kotoka'],
-  },
-  {
-    name: 'Ver Vermillion',
-    ytId: 'UCO8WcDsF5znr-qsXlzZNpqg',
-    chName: 'Ver Vermillion 【NIJISANJI EN】',
-    picture:
-      'https://yt3.ggpht.com/zlQvxSHxygOQzQ4DGFTykg8ivW8xRk8TaJi7qJkF-Smnh-Hz7Q6rtJ2ULeChwGSm6cnYJ0Dt=s88-c-k-c0x00ffffff-no-rj',
-    groups: ['Nijisanji', 'Nijisanji EN', 'XSOLEIL'],
-    twitter: 'Ver_Vermillion',
-    aliases: ['ver'],
-  },
+  // {
+  //   name: 'Zaion LanZa',
+  //   ytId: 'UCIairB9UMDvqSKfMdv1jmjg',
+  //   chName: 'Zaion LanZa 【NIJISANJI EN】',
+  //   picture:
+  //     'https://yt3.ggpht.com/DrHNK8DkQhELD8LMdrvJ7SSj0t5UrZfQjvMuYUDlGM1LTREgx7GEg7kE48EWBDWCcfzaDGiktqg=s88-c-k-c0x00ffffff-no-rj',
+  //   groups: ['Nijisanji', 'Nijisanji EN', 'XSOLEIL'],
+  //   twitter: 'ZaionLanZa',
+  //   aliases: ['zaion'],
+  // },
+  // {
+  //   name: 'Doppio Dropscythe',
+  //   ytId: 'UCy91xBlY_Brh3bnHxKtjrrg',
+  //   chName: 'Doppio Dropscythe 【NIJISANJI EN】',
+  //   picture:
+  //     'https://yt3.ggpht.com/X1LtitsaIYwwrNyC5vmTCzUJUC1LHRlrkBcVHQIUkGb--Sj8ZrX_FFB7HwbG5oum7oNf80mZ=s88-c-k-c0x00ffffff-no-rj',
+  //   groups: ['Nijisanji', 'Nijisanji EN', 'XSOLEIL'],
+  //   twitter: 'D_Dropscythe',
+  //   aliases: ['doppio'],
+  // },
+  // {
+  //   name: 'Meloco Kyoran',
+  //   ytId: 'UChKXd7oqD18qiIYBoRIHTlw',
+  //   chName: 'Meloco Kyoran 【NIJISANJI EN】',
+  //   picture:
+  //     'https://yt3.ggpht.com/8PnNIMeWBuNMKtj_5ebi4ep5kw29twkVw8gsOcdnk9pUGqW-uR9W8fvYPQmyf-mZhf-7cABK=s88-c-k-c0x00ffffff-no-rj',
+  //   groups: ['Nijisanji', 'Nijisanji EN', 'XSOLEIL'],
+  //   twitter: 'MelocoKyoran',
+  //   aliases: ['meloco'],
+  // },
+  // {
+  //   name: 'Hex Haywire',
+  //   ytId: 'UCz_ZRw6ak4Foy8zZy0kEprQ',
+  //   chName: 'Hex Haywire 【NIJISANJI EN】',
+  //   picture:
+  //     'https://yt3.ggpht.com/rEyqgSXu2ihdoyEcGl8vcJslz9x7m5aoKI1MoYs3PpX_yFC763kTFaTl_V4JirSkrv1e0xzokw=s88-c-k-c0x00ffffff-no-rj',
+  //   groups: ['Nijisanji', 'Nijisanji EN', 'XSOLEIL'],
+  //   twitter: 'HexHaywire',
+  //   aliases: ['hex'],
+  // },
+  // {
+  //   name: 'Kotoka Torahime',
+  //   ytId: 'UCggO2c1unS-oLwTLT0ICywg',
+  //   chName: 'Kotoka Torahime 【NIJISANJI EN】',
+  //   picture:
+  //     'https://yt3.ggpht.com/Myreh9MUumbweF0-LXoxbFjNAHzVyXNASE2ZMK14p0YNUMGLSVUCaGAO_d63bXdbtTdRRNBjgw=s88-c-k-c0x00ffffff-no-rj',
+  //   groups: ['Nijisanji', 'Nijisanji EN', 'XSOLEIL'],
+  //   twitter: 'KotokaTorahime',
+  //   aliases: ['kotoka'],
+  // },
+  // {
+  //   name: 'Ver Vermillion',
+  //   ytId: 'UCO8WcDsF5znr-qsXlzZNpqg',
+  //   chName: 'Ver Vermillion 【NIJISANJI EN】',
+  //   picture:
+  //     'https://yt3.ggpht.com/zlQvxSHxygOQzQ4DGFTykg8ivW8xRk8TaJi7qJkF-Smnh-Hz7Q6rtJ2ULeChwGSm6cnYJ0Dt=s88-c-k-c0x00ffffff-no-rj',
+  //   groups: ['Nijisanji', 'Nijisanji EN', 'XSOLEIL'],
+  //   twitter: 'Ver_Vermillion',
+  //   aliases: ['ver'],
+  // },
 ] as const
