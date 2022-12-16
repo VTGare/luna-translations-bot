@@ -9,7 +9,7 @@ import { communityEmitter } from './communityEmitter'
 import { CommunityPost } from './getLatestPost'
 import { isMainThread } from 'worker_threads'
 
-if (isMainThread) communityEmitter.on('post', notifyPost)
+// if (isMainThread) communityEmitter.on('post', notifyPost)
 
 function notifyPost(post: CommunityPost): void {
   const allSettings = getAllSettings()

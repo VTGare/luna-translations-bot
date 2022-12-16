@@ -23,9 +23,10 @@ export interface CommunityPost {
 
 function extractYtData(ytData: any, ytId: string): CommunityPost | undefined {
   const latestPost =
-    ytData.contents?.twoColumnBrowseResultsRenderer.tabs[3].tabRenderer.content.sectionListRenderer
-      .contents[0].itemSectionRenderer.contents[0].backstagePostThreadRenderer?.post
+    ytData.contents?.twoColumnBrowseResultsRenderer.tabs[3].tabRenderer.content?.sectionListRenderer?.contents[0].
+    itemSectionRenderer.contents[0].backstagePostThreadRenderer?.post
       .backstagePostRenderer
+  
   const textEls = latestPost?.contentText.runs as any[]
   const postText = textEls?.map((el) => el.text).join(' ')
   const truncated = postText?.length < 2000 ? postText : postText?.substr(0, 1999) + '…'
