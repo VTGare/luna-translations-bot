@@ -14,7 +14,6 @@ import Enmap from 'enmap'
 
 export const guildDataEnmap: Enmap<Snowflake, GuildData> = new Enmap({
   name: 'guildData',
-  dataDir: '/data',
 })
 
 export type ImmutableRelayHistory = ImmutableMap<VideoId, RelayedComment[]>

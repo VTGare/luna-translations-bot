@@ -10,7 +10,6 @@ const _id = '000000000022'
 
 export const botDataEnmap = new Enmap({
   name: 'botData',
-  dataDir: '/data',
 })
 
 export function addNotifiedLive(videoId: VideoId): void {
