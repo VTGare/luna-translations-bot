@@ -9,6 +9,8 @@ services:
       DEEPL_KEY: ${DEEPL_KEY}
       TWITCASTING_CLIENT_ID: ${TWITCASTING_CLIENT_ID}
       TWITCASTING_CLIENT_SECRET: ${TWITCASTING_CLIENT_SECRET}
+      CLIENT_ID: ${CLIENT_ID}
+      SQLITE_DATA_DIR: ${SQLITE_DATA_DIR}
       MONGODB_URL: mongodb://db/luna
     depends_on:
       - db
