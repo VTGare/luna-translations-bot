@@ -60,16 +60,6 @@ export const nijisanji = [
     aliases: ['petra'],
   },
   {
-    name: 'Nina Kosaka',
-    ytId: 'UCkieJGn3pgJikVW8gmMXE2w',
-    chName: 'Nina Kosaka【NIJISANJI EN】',
-    picture:
-      'https://yt3.ggpht.com/-JRODQIYAdJjCTGJrqJtyypBPMmkegGUMle_V3o2uF6OSbBWWVLvPnPCnJDXwI-7AilZUFhoqg=s88-c-k-c0x00ffffff-no-rj',
-    groups: ['Nijisanji', 'Nijisanji EN', 'Ethyria'],
-    twitter: 'NinaKosaka',
-    aliases: ['Nina'],
-  },
-  {
     name: 'Millie Parfait',
     ytId: 'UC47rNmkDcNgbOcM-2BwzJTQ',
     chName: 'Millie Parfait【NIJISANJI EN】',
@@ -190,16 +180,6 @@ export const nijisanji = [
     aliases: ['fulgur'],
   },
   {
-    name: 'Yugo Asuma',
-    ytId: 'UCSc_KzY_9WYAx9LghggjVRA',
-    chName: 'Yugo Asuma 【NIJISANJI EN】',
-    picture:
-      'xxxx',
-    groups: ['Nijisanji', 'Nijisanji EN', 'Noctyx'],
-    twitter: 'Yugo_Asuma',
-    aliases: ['yugo'],
-  },
-  {
     name: 'Maria Marionette',
     ytId: 'UCwaS8_S7kMiKA3izlTWHbQg',
     chName: 'Maria Marionette 【NIJISANJI EN】',
@@ -260,16 +240,6 @@ export const nijisanji = [
     aliases: ['ren'],
   },
   {
-    name: 'Zaion LanZa',
-    ytId: 'UCIairB9UMDvqSKfMdv1jmjg',
-    chName: 'Zaion LanZa 【NIJISANJI EN】',
-    picture:
-      'https://yt3.ggpht.com/DrHNK8DkQhELD8LMdrvJ7SSj0t5UrZfQjvMuYUDlGM1LTREgx7GEg7kE48EWBDWCcfzaDGiktqg=s88-c-k-c0x00ffffff-no-rj',
-    groups: ['Nijisanji', 'Nijisanji EN', 'XSOLEIL'],
-    twitter: 'ZaionLanZa',
-    aliases: ['zaion'],
-  },
-  {
     name: 'Doppio Dropscythe',
     ytId: 'UCy91xBlY_Brh3bnHxKtjrrg',
     chName: 'Doppio Dropscythe 【NIJISANJI EN】',
@@ -318,5 +288,35 @@ export const nijisanji = [
     groups: ['Nijisanji', 'Nijisanji EN', 'XSOLEIL'],
     twitter: 'Ver_Vermillion',
     aliases: ['ver'],
+  },
+  {
+    name: 'Yu Q. Wilson',
+    ytId: 'UCKpKC3M5fkcEvtOr06dmYlA',
+    chName: 'Yu Q. Wilson 【NIJISANJI EN】',
+    picture:
+      'https://yt3.googleusercontent.com/GR1e8gQ-x7ehgpqAZmrwoJBI7ReZneaTR6PEQvgcW3kIabEvfTenrpiNRWZSH6QpysfZftKKrA=s176-c-k-c0x00ffffff-no-rj',
+    groups: ['Nijisanji', 'Nijisanji EN', 'Krisis'],
+    twitter: 'YuQWilson',
+    aliases: ['wilson'],
+  },
+  {
+    name: 'Vantacrow Bringer',
+    ytId: 'UCpYf6C9QsP_BRf97vLuXlIA',
+    chName: 'Vantacrow Bringer 【NIJISANJI EN】',
+    picture:
+      'https://yt3.googleusercontent.com/GLPkvp_8o7OvZ3q57IpqDSHIyv6OqZFK6tO1egzLoMjE19EBlo3tISEMIOLEvkC5jnl2Uus93A=s176-c-k-c0x00ffffff-no-rj',
+    groups: ['Nijisanji', 'Nijisanji EN', 'Krisis'],
+    twitter: 'Tyrant_Vanta',
+    aliases: ['vantacrow'],
+  },
+  {
+    name: 'Vezalius Bandage',
+    ytId: 'UCK9l6rTwU3hiSZijIMq51Gw',
+    chName: 'Vezalius Bandage 【NIJISANJI EN】',
+    picture:
+      'https://yt3.googleusercontent.com/rnqrntYI1y38pqQeqYAmX3_gG1vZ-iYeMGHY0nCC-lxqKdoBspKriRXzMPv7PByMydEYm9YvvzU=s176-c-k-c0x00ffffff-no-rj',
+    groups: ['Nijisanji', 'Nijisanji EN', 'Krisis'],
+    twitter: 'Vezalius Bandage',
+    aliases: ['bandage'],
   },
 ] as const
